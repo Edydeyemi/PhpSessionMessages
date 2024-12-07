@@ -1,0 +1,21 @@
+{
+    "name": "edydeyemi/session-messages",
+    "description": "Simple-to-use Session-based FlashMessages Library for PHP with support for Boostrap 4 and Boostrap 5. A fork of Plasticbrain's session-based FlashMessages",
+    "keywords": ["flash", "messages", "session", "bootstrap5", "bootstrap4", "session messages", "flash messages", "php"],
+    "authors": [
+        {
+            "name": "Edward Babatunde",
+            "email": "edydeyemi@hotmail.com"
+        }
+    ],
+    "license": "MIT",
+    "require": {
+        "php": ">=5.4.0" 
+    },
+    "require-dev": {},
+    "autoload": {
+        "psr-4": {
+            "Edydeyemi\\SessionMessages\\": "src/"
+        }
+    }
+}
