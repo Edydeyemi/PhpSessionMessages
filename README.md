@@ -20,11 +20,11 @@ This is a forked version of new version of PlasticBrain's PHPFlashMessages - htt
 ### With Composer
 
 ````shell
-composer require Edydeyemi/php-session-messages
+composer require Edydeyemi/session-messages
 ````
 
 ### Without composer
-Download [SessionMessages.php](https://raw.githubusercontent.com/edydeyemi/SessionMessages/master/src/SessionMessages.php) and save it to your project directory.
+Download [SessionMessages.php](https://raw.githubusercontent.com/edydeyemi/PhpSessionMessages/master/src/SessionMessages.php) and save it to your project directory.
 
 Import the file:
 
